@@ -4,8 +4,8 @@
 
 
 - [ ] 01 - [drum kit](https://github.com/ShtankoDaria/Drum-Kit)
-- [ ] 02 - [clock](https://github.com/ekaterinaasf/02JSandCSS-Clock/blob/master/README.md)
-- [ ] 03 - [css variables](https://github.com/ShtankoDaria/CSS-Variables-and-JS/blob/master/README.md)
+- [ ] 02 - [clock](https://github.com/ekaterinaasf/02JSandCSS-Clock)
+- [ ] 03 - [css variables]https://github.com/ShtankoDaria/CSS-Variables-and-JS)
 - [ ] 05 - [flex panel gallery]()
 - [ ] 06 - [type ahead]()
 - [ ] 08 - [fun with html5 canvas]()
